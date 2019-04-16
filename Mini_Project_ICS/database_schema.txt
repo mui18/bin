@@ -1,0 +1,9 @@
+create this database in phpmyadmin or mysql
+then add the table 'users' and add some records
+
+database name : miniproj
+table name : users
+
+columns:
+1. 'id'    type: varchar(20)
+2. 'pass'  type: varchar(20)
